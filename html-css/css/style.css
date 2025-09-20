@@ -1,0 +1,53 @@
+p {
+    color: red;
+}
+
+div p {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+div h3 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: bold;
+    color: aqua;
+}
+
+.example1 {
+    display: inline;
+}
+
+.example2 {
+    display: block;
+}
+
+.example3,
+.example4 {
+    display: inline-block;
+}
+
+/* .gorditas-regular {
+    font-family: "Gorditas", serif;
+    font-weight: 400;
+    font-style: normal;
+} */
+
+p {
+    font-family: "Gorditas", serif;
+    font-size: 60px;
+}
+
+h2 {
+
+    /* font-family: "Noto Sans JP", sans-serif; */
+    font-family: "Noto Serif JP", serif;
+}
+
+body {
+    background: #f2f2f2 url("../img/red.jpg") no-repeat center / 300px 150px
+}
